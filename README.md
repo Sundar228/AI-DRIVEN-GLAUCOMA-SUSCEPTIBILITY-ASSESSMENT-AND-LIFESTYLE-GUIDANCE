@@ -1,5 +1,4 @@
-# AI-DRIVEN-GLAUCOMA-SUSCEPTIBILITY-ASSESSMENT-AND-LIFESTYLE-GUIDANCE
-
+# AI-Driven Glaucoma Susceptibility Assessment and Lifestyle Guidance
 
 This project addresses the global health challenge posed by glaucoma, a progressive and irreversible eye disease affecting millions worldwide. Recognizing the critical importance of timely detection and intervention for managing the condition and preventing irreversible vision loss, our initiative focuses on developing an innovative Python-based application. This application utilizes advanced machine learning techniques, specifically Convolutional Neural Networks (CNNs) with transfer learning.
 In our pursuit to enhance glaucoma diagnosis and management, we have chosen to implement the VGG16 model with transfer learning. Originally designed for image classification tasks, this pre-trained model enables automated classification of glaucoma severity into distinct categories, including No_DR, Proliferate_DR, Mild, Moderate, and Severe. The strategic use of transfer learning allows us to leverage the wealth of knowledge acquired by VGG16 from extensive image datasets, optimizing its performance for our specific application.
